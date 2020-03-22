@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "run-left-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 482,
+				"h": 365
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "NITW_cat_idle_land_right_00010-sharedassets0.assets-2659.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 512,
+						"h": 512
+					},
+					"spriteSourceSize": {
+						"x": 161,
+						"y": 102,
+						"w": 236,
+						"h": 363
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 236,
+						"h": 363
+					}
+				},
+				{
+					"filename": "NITW_cat_idle_land_right_00011-sharedassets0.assets-4198.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 512,
+						"h": 512
+					},
+					"spriteSourceSize": {
+						"x": 147,
+						"y": 103,
+						"w": 242,
+						"h": 362
+					},
+					"frame": {
+						"x": 239,
+						"y": 1,
+						"w": 242,
+						"h": 362
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:f4d93c8a53e0ff9cb1d13fd588fc3313:bf2609cd274cbb858810ea0edad4b784:fec542a2104de8eaa3a29fae6b3599c4$"
+	}
+}

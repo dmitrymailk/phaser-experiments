@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "idle-left.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 481,
+				"h": 362
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "NITW_cat_idle_land_left_00011-sharedassets0.assets-5010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 512,
+						"h": 512
+					},
+					"spriteSourceSize": {
+						"x": 130,
+						"y": 105,
+						"w": 236,
+						"h": 360
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 236,
+						"h": 360
+					}
+				},
+				{
+					"filename": "NITW_cat_idle_land_left_00012-sharedassets0.assets-2138.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 512,
+						"h": 512
+					},
+					"spriteSourceSize": {
+						"x": 131,
+						"y": 107,
+						"w": 241,
+						"h": 358
+					},
+					"frame": {
+						"x": 239,
+						"y": 1,
+						"w": 241,
+						"h": 358
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:1bf71487cb134e87c6a05e7ce1d2ded8:bd18a55adc08eda931200855a896419d:eb08613b6f15748cb98af9256e82e711$"
+	}
+}
