@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "C:\\Users\\dmitry\\Documents\\English App\\Game\\phaser-tutorials\\2__phaser-examples"
+	},
+	{
+		"path": "C:\\Users\\dmitry\\Documents\\English App\\Game\\dev2dev\\2__dragon"
+	},
+	{
+		"path": "C:\\Users\\dmitry\\Documents\\English App\\Game\\my-phaser-games\\1__flappy-penguin"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "1__flappy-penguin"
+  }
+}
